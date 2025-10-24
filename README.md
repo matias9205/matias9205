@@ -1,6 +1,6 @@
 # 👋 ¡Hola, soy Matías Mazparrote!
 
-🎯 **Data Engineer | Backend Developer | Python | SQL | ETL | Snowflake | Alteryx**
+🎯 **Data Engineer | Data Analyst | Python | SQL | ETL | Snowflake | Alteryx | Power BI**
 
 Soy **Backend Developer y Data Engineer con experiencia en el desarrollo de pipelines ETL, integración de datos mediante APIs y automatización de reportes para análisis de negocio.**
 
